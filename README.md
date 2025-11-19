@@ -63,3 +63,5 @@ Formatea los valores finales para el cliente.
 Envía un mensaje de WhatsApp totalmente automatizado usando un template.
 
 Loguea todo para control interno.
+
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/03740b3d-b172-467e-8848-bbb6810598a7" />
